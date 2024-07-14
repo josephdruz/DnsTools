@@ -31,7 +31,6 @@ yarn
 yarn tauri build
 ```
 然后就可以在`.\src-tauri\target\release\bundle`下面找到编译产物
-# Star
-[![Star History Chart](https://api.star-history.com/svg?repos=Kukaina/DnsTools&type=Timeline)](https://star-history.com/#Kukaina/DnsTools&Timeline)
+
 
 
